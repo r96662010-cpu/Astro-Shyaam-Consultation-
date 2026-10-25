@@ -1,0 +1,6 @@
+{
+  "name": "AstroOracle",
+  "description": "AI-powered astrology, numerology, tarot, and Vedic Jyotish chatbot providing personalized insights, Nakshatra calculations, and daily guidance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
